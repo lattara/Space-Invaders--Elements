@@ -10,5 +10,5 @@ Air and Earth which needs to be mached with the enemies in order to kill them.
 
 ![Image description](https://github.com/lattara/Space-Invaders--Elements/blob/main/src/assets/game.png?raw=true)
 
-for short demo please wisit following link >>> https://www.youtube.com/watch?v=agBOLygSc7c
+for short demo please visit following link >>> https://www.youtube.com/watch?v=agBOLygSc7c
 
